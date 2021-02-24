@@ -1,0 +1,16 @@
+#logo {
+    width: 300px;
+    min-height: 300px;
+    border-radius: 50%;
+    background: red;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    background: #1e1e1e;
+}
